@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="MassiveCore" level="project" />
+    <orderEntry type="library" name="spigot-1.12.2" level="project" />
+    <orderEntry type="library" name="worldedit-bukkit-6.1.9" level="project" />
+    <orderEntry type="library" name="Herochat Pro 6.0.01 RC4" level="project" />
+    <orderEntry type="library" name="Vault-1.6.6" level="project" />
+    <orderEntry type="library" name="griefdefender-bukkit-3.0.3" level="project" />
+    <orderEntry type="library" name="LWC-2.4.0" level="project" />
+    <orderEntry type="library" name="LWC" level="project" />
+  </component>
+</module>
