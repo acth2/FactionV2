@@ -15,5 +15,6 @@
     <orderEntry type="library" name="griefdefender-bukkit-3.0.3" level="project" />
     <orderEntry type="library" name="LWC-2.4.0" level="project" />
     <orderEntry type="library" name="LWC" level="project" />
+    <orderEntry type="library" name="LWCX-1.9.7" level="project" />
   </component>
 </module>

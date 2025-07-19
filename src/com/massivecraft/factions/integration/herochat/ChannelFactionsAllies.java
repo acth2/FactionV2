@@ -8,6 +8,7 @@ import com.massivecraft.factions.entity.MConf;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
 
+import java.util.Collections;
 import java.util.EnumSet;
 import java.util.Set;
 import java.util.UUID;
@@ -26,12 +27,12 @@ public class ChannelFactionsAllies extends ChannelFactionsAbstract
 
 	@Override
 	public Set<UUID> getModeratorsUUID() {
-		return Set.of();
+		return Collections.emptySet();
 	}
 
 	@Override
 	public Set<UUID> getMutesUUID() {
-		return Set.of();
+		return Collections.emptySet();
 	}
 
 	@Override public void setFormat(String format) { MConf.get().herochatAlliesFormat = format; }
@@ -66,7 +67,7 @@ public class ChannelFactionsAllies extends ChannelFactionsAbstract
 
 	@Override
 	public Set<UUID> getBansUUID() {
-		return Set.of();
+		return Collections.emptySet();
 	}
 
 	@Override public Set<String> getWorlds() { return MConf.get().herochatAlliesWorlds; }
