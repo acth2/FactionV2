@@ -12,9 +12,10 @@
     <orderEntry type="library" name="worldedit-bukkit-6.1.9" level="project" />
     <orderEntry type="library" name="Herochat Pro 6.0.01 RC4" level="project" />
     <orderEntry type="library" name="Vault-1.6.6" level="project" />
-    <orderEntry type="library" name="griefdefender-bukkit-3.0.3" level="project" />
     <orderEntry type="library" name="LWC-2.4.0" level="project" />
     <orderEntry type="library" name="LWC" level="project" />
     <orderEntry type="library" name="LWCX-1.9.7" level="project" />
+    <orderEntry type="library" name="mohist-1.12.2-aa14cef" level="project" />
+    <orderEntry type="library" name="BungeeCord" level="project" />
   </component>
 </module>

@@ -3,11 +3,8 @@
     <output-path>$PROJECT_DIR$/out/artifacts/FactionsV2_jar</output-path>
     <root id="archive" name="FactionsV2.jar">
       <element id="module-output" name="FactionsV2" />
-      <element id="library" level="project" name="griefdefender-bukkit-3.0.3" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/libs/LWC.jar" path-in-jar="/" />
-      <element id="library" level="project" name="LWC-2.4.0" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/libs/MassiveCore.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/libs/Herochat Pro 6.0.01 RC4.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/BungeeCord.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
