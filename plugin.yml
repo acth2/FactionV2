@@ -1,7 +1,7 @@
 main: com.massivecraft.factions.Factions
 name: Factions
-version: 2.15.0
-website: http://earthglory.fr:25590/
+version: 2.14.0
+website: http://earthglory.fr
 description: Faction compiled free lessgo
 authors: [Cayorion, Madus, Ulumulu1510, MarkehMe, Brettflan, AcTh2]
 depend: [MassiveCore]
